@@ -8,7 +8,7 @@ function error404 () {
               <h1>404: PAGE NOT FOUND</h1>
               <p>Oops, sorry, we can't find this page!</p>
               <div>
-                <img src="/images/e6cf1968de1b5117499c429bc37c02de.jpg" alt="Jiji with panda hat" />
+                <img className='errorCat' src="/images/e6cf1968de1b5117499c429bc37c02de.jpg" alt="Jiji with panda hat" />
                 <div>
                   Photo by <a href="https://unsplash.com/@cravethebenefits">Brandon</a> on <a href="UNSPLASH_LINK">Unsplash</a>
                 </div>
