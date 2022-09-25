@@ -43,3 +43,8 @@ main {
   margin-left: 20px;
   background-color: white;
 }
+
+.errorCat {
+  width: 500px;
+  height: 500px;
+}
